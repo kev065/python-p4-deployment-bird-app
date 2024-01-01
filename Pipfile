@@ -16,6 +16,7 @@ python-dotenv = "*"
 sqlalchemy-serializer = "*"
 flask-cors = "*"
 Werkzeug = "2.2.2"
+sqlalchemy = "==1.4.27"
 
 [dev-packages]
 
